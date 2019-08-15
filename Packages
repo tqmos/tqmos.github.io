@@ -1,0 +1,16 @@
+Package: com.c1d3r.messageheadsxi
+Name: Chat Bong Bóng 
+Version: 178.0
+Architecture: iphoneos-arm
+Description: Chát messager bong bóng như android ,tiện hơn khi bạn là ng hay nt
+Depiction: https://tqmos.github.io/description.html?id=com.tqm-mos.chatxi
+Author: C1d3 <anhminh311105@gmail.com>
+Section: System
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap 
+Conflicts: com.c1d3r.mhfbsupport, com.c1d3r.mhwasupport, com.c1d3r.mhsmssupport, com.tqm-mos.mhfbsupport, com.tqm-mos.mhwasupport, com.tqm-mos.mhsmssupport, com.tqm-mos.crack
+Maintainer: Tqm-minh <anhminh311105@gmail.com>
+Filename: ./debs/com.c1d3r.messageheadsxi_178.0_iphoneos-arm.deb
+Size: 93720794
+MD5sum: eb8947dfc28b7c39d8178c2cfdddba1d
+SHA1: 289733d9822cfc2b0bfa9d3cf6ade198763055a9
+SHA256: 44374c5f0640062e96d1fb6d06387de5a6ab7fb4b8b49680d0d846f36c9d6e5b

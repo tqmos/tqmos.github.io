@@ -1,3 +1,2 @@
-﻿#  http://tqmos.github.io    
-Trần Quang Minh
-Electra Jaibreak IOS11
+﻿#  http://tqm-mos.github.io    
+Repo By TQM-Mos
