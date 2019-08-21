@@ -1,2 +1,3 @@
-﻿#  http://tqm-mos.github.io    
-Repo By TQM-Mos
+﻿#  http://tqmos.github.io    
+Trần Quang Minh
+Cydia Jaibreak IOS
